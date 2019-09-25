@@ -1,2 +1,2 @@
 # test 
-# jus test
+# just test
